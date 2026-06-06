@@ -1,0 +1,325 @@
+body {
+    background-image: url("fire.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    font-family: MV boli;
+    margin: 0;
+    padding: 0;
+}
+
+.Menu {
+    font-family: MV boli;
+    font-size: larger;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    font-size: 25px;
+}
+.card-hamburguer {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px;
+    color: white;
+}
+
+.card-hamburguer h2 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+}
+
+.card-hamburguer p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+}
+.item-menu {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-left: 20px;
+}
+
+.preco {
+    width: 90px;
+    height: 90px;
+
+    background-color: #ff7b00;
+
+    border-radius: 50%;
+
+    color: white;
+    font-family: "MV Boli", cursive;
+    font-size: 24px;
+    font-weight: bold;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  .card-salada {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px;
+    color: white;
+  }
+
+  .card-salada h3 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+  }
+
+  .card-salada p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left; 
+  }
+ .card-frango {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px;
+    color: white;
+ }
+
+ .card-frango h4 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+
+ }
+
+ .card-frango p {
+     margin: 0;
+    font-size: 18px;
+    text-align: left;
+
+ }
+ .card-egg {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px;
+    color: white;
+ }
+
+ .card-egg h4 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+ }
+
+ .card-egg p {
+     margin: 0;
+    font-size: 18px;
+    text-align: left;
+ }
+ .card-costela {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px;
+    color: white;
+ }
+
+ .card-costela h5 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+
+ }
+
+ .card-costela p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+
+ }
+ .card-costela-2x {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px;
+    color: white;
+ }
+
+ .card-costela-2x h6 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+ }
+
+ .card-costela-2x p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+
+ }
+
+ .card-calabresa {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px 20px 20px auto;
+    color: white;
+}
+
+ .card-calabresa h2 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+
+ }
+
+ .card-calabresa p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+ }
+
+ .card-bacon {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px 20px 20px auto;
+    color: white;
+ }
+
+ .card-bacon h3 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+ }
+
+ .card-bacon p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left
+ }
+
+ .card-americano {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px 20px 20px auto;
+    color: white;
+ }
+
+ .card-americano h4 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+ }
+
+ .card-americano p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+ }
+
+ .card-coracao {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px 20px 20px auto;
+    color: white;
+
+ }
+
+ .card-coracao h5 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+
+ }
+
+ .card-coracao p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+
+ }
+
+ .card-crocante {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px 20px 20px auto;
+    color: white;
+
+ }
+
+ .card-crocante h6 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+
+ }
+
+ .card-crocante p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+
+ }
+
+ .card-caprichoso {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px 20px 20px auto;
+    color: white;
+ }
+
+ .card-caprichoso h2 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+ }
+
+ .card-caprichoso p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+
+ }
+
+ .card-bagunca {
+    background: #ff7b00;
+    width: 320px;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 20px;
+    color: white;
+ }
+
+ .card-bagunca h3 {
+    margin: 0 0 10px 0;
+    font-size: 32px;
+    text-align: left;
+ }
+
+ .card-bagunca p {
+    margin: 0;
+    font-size: 18px;
+    text-align: left;
+ }
